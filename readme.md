@@ -5,7 +5,7 @@ This file contains a list of all the tasks that remain, in basically the same or
 
 ## TIPS
 + Practice using Google to search for the things you don't know how to do :)
-  
+
 + This file is written in a code called 'Markdown' which allows you to format text. You can surround any text with double tilda characters (~) to create a strikethrough effect. Like this: ~~strikethrough text~~. This will allow you to strike out the items below after you're done completing them, so you can track what tasks youv'e completed.
 
 ## In /index.html
@@ -13,10 +13,10 @@ This file contains a list of all the tasks that remain, in basically the same or
 
 ~~+ The stylesheet needs to be hooked up to the page. In the head section, add a link to our external stylesheet: it's named style.css and it's located inside the /css folder. You will need to use the <link> tag for this and you will need to make certain the path is correct. You can use the browser's inspector to check.~~
 
-+ One image still needs to be added. Inside the article element, there's a figure without an image. Inside the figure element, add an image element that links to the dodo.jpg file inside the /img folder. Don't forget to use the alt attribute and make sure the file path is correct. Again, you can use the browser's inspector to check.
++ ~~One image still needs to be added. Inside the article element, there's a figure without an image. Inside the figure element, add an image element that links to the dodo.jpg file inside the /img folder. Don't forget to use the alt attribute and make sure the file path is correct. Again, you can use the browser's inspector to check.~~
 
 ## In /css/style.css
-+ Change the default font on the body from Arial to 'Gentium Book Basic' with a fallback to serif, so it will be inherited by the rest of the elements. 
++ ~~Change the default font on the body from Arial to 'Gentium Book Basic' with a fallback to serif, so it will be inherited by the rest of the elements.~~ 
 
 + Use the display property to set the display of the nav element to "flex" to lay out the main menu in a horizontal row, and use the justify-content property to distribute the links with space-between.
 
